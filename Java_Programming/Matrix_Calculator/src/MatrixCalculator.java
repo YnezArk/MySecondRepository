@@ -8,7 +8,7 @@ public class MatrixCalculator {
         Matrix currentMatrix = null;
 
         while (true) {
-            System.out.println("\n--- 矩阵计算器 ---");
+            System.out.println("\n--- 矩阵计算器分支测试 ---");
             if (currentMatrix != null) {
                 System.out.println("当前矩阵:");
                 System.out.println(currentMatrix);
