@@ -1,4 +1,4 @@
-QT       += core gui
+QT       += core gui network multimedia texttospeech
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -17,9 +17,12 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
+    vosk.cpp \
     widget.cpp
 
 HEADERS += \
+    vosk.h \
+    vosk_api.h \
     widget.h
 
 FORMS += \
@@ -29,3 +32,6 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+LIBS += -L"D:\SDK\vosk-win64-0.3.45" -lvosk
+LIBS += -L"D:\SDK\OpenBLAS-0.3.30-x64\lib" -lopenblas

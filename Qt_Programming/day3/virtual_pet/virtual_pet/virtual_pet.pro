@@ -1,4 +1,4 @@
-QT       += core gui
+QT       += core gui network multimedia
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -15,17 +15,36 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # You can also select to disable deprecated APIs only up to a certain version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
-SOURCES += \
-    main.cpp \
-    widget.cpp
+SOURCES += main.cpp \
+           core/pet_core.cpp \
+           core/emotion_manager.cpp \
+           core/action_controller.cpp \
+           ui/pet_widget.cpp \
+           ui/chat_dialog.cpp \
+           interaction/mouse_tracker.cpp \
+           interaction/reminder_manager.cpp \
 
-HEADERS += \
-    widget.h
+           ai/ai_manager.cpp \
+
+
+HEADERS += core/pet_core.h \
+           core/emotion_manager.h \
+           core/action_controller.h \
+           ui/pet_widget.h \
+           ui/chat_dialog.h \
+           interaction/mouse_tracker.h \
+           interaction/reminder_manager.h \
+
+           ai/ai_manager.h \
+
 
 FORMS += \
     widget.ui
+RESOURCES += res/qrc_resources.qrc
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+LIBS += -L"D:\SDK\vosk-win64-0.3.45" -lvosk

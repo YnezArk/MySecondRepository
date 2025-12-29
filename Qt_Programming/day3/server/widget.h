@@ -2,6 +2,9 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QTcpServer>
+#include <QTcpSocket>
+#include <QNetworkInterface>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }
@@ -14,8 +17,16 @@ class Widget : public QWidget
 public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
+    QString getLocalIP();
+private slots:
+    void client_handler();
+    void recv_msg();
+
+    void on_server_pb_send_clicked();
 
 private:
     Ui::Widget *ui;
+    QTcpServer *server;
+    QTcpSocket *socket;
 };
 #endif // WIDGET_H

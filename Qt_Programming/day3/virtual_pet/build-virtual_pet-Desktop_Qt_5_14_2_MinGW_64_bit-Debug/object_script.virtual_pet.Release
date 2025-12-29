@@ -1,0 +1,16 @@
+release/main.o
+release/pet_core.o
+release/emotion_manager.o
+release/action_controller.o
+release/pet_widget.o
+release/chat_dialog.o
+release/mouse_tracker.o
+release/reminder_manager.o
+release/qrc_qrc_resources.o
+release/moc_pet_core.o
+release/moc_emotion_manager.o
+release/moc_action_controller.o
+release/moc_pet_widget.o
+release/moc_chat_dialog.o
+release/moc_mouse_tracker.o
+release/moc_reminder_manager.o

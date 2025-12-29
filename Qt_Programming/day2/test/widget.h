@@ -2,6 +2,7 @@
 #define WIDGET_H
 
 #include <QWidget>
+#include <QTextToSpeech>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Widget; }
@@ -15,7 +16,11 @@ public:
     Widget(QWidget *parent = nullptr);
     ~Widget();
 
+private slots:
+    void on_pushButton_clicked();
+    void myTextChanged();
 private:
     Ui::Widget *ui;
+    QTextToSpeech *ts;
 };
 #endif // WIDGET_H
