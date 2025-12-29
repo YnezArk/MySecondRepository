@@ -1,0 +1,70 @@
+{
+    "currentTime": 1766308453274,
+    "msg": "请求成功",
+    "rt": {
+        "1070693144": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693144",
+            "answer": "355907188,355907182,355907174,355907178",
+            "datas": null,
+            "stuExamId": "2867236768"
+        }
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766307243841,
+    "msg": "请求成功",
+    "rt": {
+        "1070693169": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693169",
+            "answer": "355907265,355907282,355907276,355907271",
+            "datas": null,
+            "stuExamId": "2867236771"
+        },
+        "1070693161": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693161",
+            "answer": "355907246,355907240,355907232,355907227,355907255,355907251",
+            "datas": null,
+            "stuExamId": "2867236771"
+        },
+        "1070693153": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693153",
+            "answer": "355907215,355907208,355907202",
+            "datas": null,
+            "stuExamId": "2867236771"
+        },
+        "1070693096": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693096",
+            "answer": "355907022",
+            "datas": null,
+            "stuExamId": "2867236771"
+        },
+        "1070693137": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693137",
+            "answer": "355907156",
+            "datas": null,
+            "stuExamId": "2867236771"
+        },
+        "1070693206": {
+            "score": "3",
+            "isCurrent": "1",
+            "questionId": "1070693206",
+            "answer": "355907406",
+            "datas": null,
+            "stuExamId": "2867236771"
+        }
+    },
+    "status": "200"
+}

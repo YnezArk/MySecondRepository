@@ -1,0 +1,227 @@
+{
+    "currentTime": 1766307243684,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "18",
+        "examBase": {
+            "id": "5XoMaBMe",
+            "name": "第一章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第一章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 6,
+            "totalScore": "18",
+            "pontType": "百分制",
+            "chapterId": 1001209645,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 6,
+                    "questionDtos": [
+                        {
+                            "id": 1070693169,
+                            "parentId": null,
+                            "name": "新时代我国劳动教育的育人价值有哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907282,
+                                    "content": "劳以育美"
+                                },
+                                {
+                                    "id": 355907276,
+                                    "content": "劳以强体"
+                                },
+                                {
+                                    "id": 355907265,
+                                    "content": "劳以树德"
+                                },
+                                {
+                                    "id": 355907271,
+                                    "content": "劳以增智"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693161,
+                            "parentId": null,
+                            "name": "新时代大学生劳动教育的线上课程的教学内容有（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907251,
+                                    "content": "育人铸魂篇"
+                                },
+                                {
+                                    "id": 355907227,
+                                    "content": "育人理论篇"
+                                },
+                                {
+                                    "id": 355907246,
+                                    "content": "育人正观篇"
+                                },
+                                {
+                                    "id": 355907232,
+                                    "content": "育人使命篇"
+                                },
+                                {
+                                    "id": 355907255,
+                                    "content": "育人实践篇"
+                                },
+                                {
+                                    "id": 355907240,
+                                    "content": "育人组织篇"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693153,
+                            "parentId": null,
+                            "name": "当前新时代大学生劳动教育的重点是：在系统的文化知识学习之外，有目的、有计划地组织大学生参加（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907215,
+                                    "content": "服务性劳动"
+                                },
+                                {
+                                    "id": 355907208,
+                                    "content": "生产劳动"
+                                },
+                                {
+                                    "id": 355907202,
+                                    "content": "日常生活劳动"
+                                },
+                                {
+                                    "id": 355907219,
+                                    "content": "脑力劳动"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693096,
+                            "parentId": null,
+                            "name": "<p>劳动教育是培养学生正确劳动价值观和良好劳动品质；具备满足生存发展需要的基本劳动能力，形成良好劳动习惯。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907026,
+                                    "content": "错"
+                                },
+                                {
+                                    "id": 355907022,
+                                    "content": "对"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693137,
+                            "parentId": null,
+                            "name": "<p>劳动教育是在系统的文化知识学习之外，有目的、有计划地组织学生参加日常生活劳动、生产劳动和服务性劳动。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907156,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355907162,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693206,
+                            "parentId": null,
+                            "name": "<p>劳动教育是仅仅让学生体验和感受劳动。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907401,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355907406,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
