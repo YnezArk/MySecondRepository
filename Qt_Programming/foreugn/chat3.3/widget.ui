@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>674</width>
+    <height>447</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Widget</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>671</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="te_recv">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>611</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid rgba(255, 255, 255, 40);  /* 极细的白边，增加高级感 */
+border-radius: 10px;                       /* 大圆角 */</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="le_IP">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>390</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    /* 背景设为白色半透明 (rgba 最后一位 100/255) */
+    background-color: rgba(255, 255, 255, 200); 
+    /* 圆角效果 */
+    border-radius: 8px;
+    /* 边框：浅白色，增加精致感 */
+    border: 1px solid rgba(255, 255, 255, 150);
+    /* 文字颜色：深灰色 */
+    color: #333333;
+    /* 内边距，防止文字贴边 */
+    padding-left: 5px;
+}
+
+/* 鼠标点击选中时的状态 */
+QLineEdit:focus {
+    background-color: rgba(255, 255, 255, 220);
+    border: 1px solid #FFFFFF;
+}</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="te_send">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>240</y>
+     <width>611</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid rgba(255, 255, 255, 40);  /* 极细的白边，增加高级感 */
+border-radius: 10px;                       /* 大圆角 */</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_PORT">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>390</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>端口</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_IP">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>390</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>IP</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_tip1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>220</y>
+     <width>71</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>请输入信息</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_tip2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>聊天信息</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pb_send">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>340</y>
+     <width>101</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    /* 基础态：纯白色，透明度约 40% (100/255) */
+    background-color: rgba(255, 255, 255, 150); 
+    border-radius: 12px;
+    font-weight: bold;
+    color: #333333; /* 深灰色文字，保证阅读清晰 */
+    /* 极细的白色亮边，增加玻璃质感 */
+    border: 1px solid rgba(255, 255, 255, 150); 
+}
+
+QPushButton:hover {
+    /* 鼠标移上去，透明度增加 */
+    background-color: rgba(169, 223, 191, 180);  
+    border: 1px solid #58D68D;
+}
+
+QPushButton:pressed {
+    /* 点击时，变得更不透明 */
+    background-color: rgba(125, 206, 160, 220);  
+}</string>
+   </property>
+   <property name="text">
+    <string>发送</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="le_Port">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>390</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit {
+    /* 背景设为白色半透明 (rgba 最后一位 100/255) */
+    background-color: rgba(255, 255, 255, 200); 
+    /* 圆角效果 */
+    border-radius: 8px;
+    /* 边框：浅白色，增加精致感 */
+    border: 1px solid rgba(255, 255, 255, 150);
+    /* 文字颜色：深灰色 */
+    color: #333333;
+    /* 内边距，防止文字贴边 */
+    padding-left: 5px;
+}
+
+/* 鼠标点击选中时的状态 */
+QLineEdit:focus {
+    background-color: rgba(255, 255, 255, 220);
+    border: 1px solid #FFFFFF;
+}</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pb_connect">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>390</y>
+     <width>80</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    /* 基础态：纯白色，透明度约 40% (100/255) */
+    background-color: rgba(255, 255, 255, 150); 
+    border-radius: 12px;
+    font-weight: bold;
+    color: #333333; /* 深灰色文字，保证阅读清晰 */
+    /* 极细的白色亮边，增加玻璃质感 */
+    border: 1px solid rgba(255, 255, 255, 150); 
+}
+
+QPushButton:hover {
+    /* 悬停态：背景变亮，透明度增加到约 70% */
+    background-color: rgba(255, 255, 255, 180);  
+    border: 1px solid rgba(255, 255, 255, 255); /* 边框完全不透明 */
+}
+
+QPushButton:pressed {
+    /* 点击态：稍微压暗，产生点击反馈 */
+    background-color: rgba(200, 200, 200, 200);  
+}</string>
+   </property>
+   <property name="text">
+    <string>连接</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>340</y>
+     <width>81</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    /* 基础态：纯白色，透明度约 40% (100/255) */
+    background-color: rgba(255, 255, 255, 150); 
+    border-radius: 12px;
+    font-weight: bold;
+    color: #333333; /* 深灰色文字，保证阅读清晰 */
+    /* 极细的白色亮边，增加玻璃质感 */
+    border: 1px solid rgba(255, 255, 255, 150); 
+}
+
+QPushButton:hover {
+    /* 鼠标移上去，透明度增加 */
+    background-color: rgba(169, 223, 191, 180);  
+    border: 1px solid #58D68D;
+}
+
+QPushButton:pressed {
+    /* 点击时，变得更不透明 */
+    background-color: rgba(125, 206, 160, 220);  
+}</string>
+   </property>
+   <property name="text">
+    <string>AI助手</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>340</y>
+     <width>51</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color: #D1F2EB;
+    border-radius: 12px;
+    font-weight: bold;
+    color: #145A32;
+    border: 2px solid transparent;
+}
+
+QPushButton:hover {
+    background-color: #A9DFBF;  /* 鼠标移上去变深 */
+    border: 2px solid #58D68D;  /* 出现边框线 */
+}
+
+QPushButton:pressed {
+    background-color: #7DCEA0;  /* 点击时更深 */
+}</string>
+   </property>
+   <property name="text">
+    <string>对话</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>560</x>
+     <y>340</y>
+     <width>51</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color: #D1F2EB;
+    border-radius: 12px;
+    font-weight: bold;
+    color: #145A32;
+    border: 2px solid transparent;
+}
+
+QPushButton:hover {
+    background-color: #A9DFBF;  /* 鼠标移上去变深 */
+    border: 2px solid #58D68D;  /* 出现边框线 */
+}
+
+QPushButton:pressed {
+    background-color: #7DCEA0;  /* 点击时更深 */
+}</string>
+   </property>
+   <property name="text">
+    <string>发送</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>240</y>
+     <width>181</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid rgba(255, 255, 255, 40);  /* 极细的白边，增加高级感 */
+border-radius: 11px;                       /* 大圆角 */</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEdit">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>40</y>
+     <width>181</width>
+     <height>171</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border: 1px solid rgba(255, 255, 255, 40);  /* 极细的白边，增加高级感 */
+border-radius: 10px;                       /* 大圆角 */</string>
+   </property>
+   <property name="lineWidth">
+    <number>0</number>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_ai_tip1">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>20</y>
+     <width>101</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>AI语音助手</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_ai_tip2">
+   <property name="geometry">
+    <rect>
+     <x>450</x>
+     <y>220</y>
+     <width>71</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);</string>
+   </property>
+   <property name="text">
+    <string>请输入问题</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/bg.png</file>
+        <file>pic/bt1.png</file>
+        <file>pic/bt2.png</file>
+        <file>pic/QQ_1766372672287.png</file>
+        <file>pic/bili_v_1766390384967.gif</file>
+    </qresource>
+</RCC>

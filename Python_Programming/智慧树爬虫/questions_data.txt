@@ -1,0 +1,1649 @@
+{
+    "currentTime": 1766308453149,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "3",
+        "examBase": {
+            "id": "e9lk2bMw",
+            "name": "绪论单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "绪论",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 1,
+            "totalScore": "3",
+            "pontType": "百分制",
+            "chapterId": 1001209644,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 1,
+                    "questionDtos": [
+                        {
+                            "id": 1070693144,
+                            "parentId": null,
+                            "name": "<p>创新培养新时代大学生“一正四强 铸魂六器”特色劳动育人，其中的“四强”是指劳动教育培养大学生（ ）。</p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907191,
+                                    "content": "社会适应能力强"
+                                },
+                                {
+                                    "id": 355907188,
+                                    "content": "担当奉献精神强"
+                                },
+                                {
+                                    "id": 355907182,
+                                    "content": "劳动创新能力强"
+                                },
+                                {
+                                    "id": 355907174,
+                                    "content": "责任与使命感强"
+                                },
+                                {
+                                    "id": 355907178,
+                                    "content": "攻坚克难意志强"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766307243684,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "18",
+        "examBase": {
+            "id": "5XoMaBMe",
+            "name": "第一章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第一章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 6,
+            "totalScore": "18",
+            "pontType": "百分制",
+            "chapterId": 1001209645,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 6,
+                    "questionDtos": [
+                        {
+                            "id": 1070693169,
+                            "parentId": null,
+                            "name": "新时代我国劳动教育的育人价值有哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907282,
+                                    "content": "劳以育美"
+                                },
+                                {
+                                    "id": 355907276,
+                                    "content": "劳以强体"
+                                },
+                                {
+                                    "id": 355907265,
+                                    "content": "劳以树德"
+                                },
+                                {
+                                    "id": 355907271,
+                                    "content": "劳以增智"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693161,
+                            "parentId": null,
+                            "name": "新时代大学生劳动教育的线上课程的教学内容有（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907251,
+                                    "content": "育人铸魂篇"
+                                },
+                                {
+                                    "id": 355907227,
+                                    "content": "育人理论篇"
+                                },
+                                {
+                                    "id": 355907246,
+                                    "content": "育人正观篇"
+                                },
+                                {
+                                    "id": 355907232,
+                                    "content": "育人使命篇"
+                                },
+                                {
+                                    "id": 355907255,
+                                    "content": "育人实践篇"
+                                },
+                                {
+                                    "id": 355907240,
+                                    "content": "育人组织篇"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693153,
+                            "parentId": null,
+                            "name": "当前新时代大学生劳动教育的重点是：在系统的文化知识学习之外，有目的、有计划地组织大学生参加（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907215,
+                                    "content": "服务性劳动"
+                                },
+                                {
+                                    "id": 355907208,
+                                    "content": "生产劳动"
+                                },
+                                {
+                                    "id": 355907202,
+                                    "content": "日常生活劳动"
+                                },
+                                {
+                                    "id": 355907219,
+                                    "content": "脑力劳动"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693096,
+                            "parentId": null,
+                            "name": "<p>劳动教育是培养学生正确劳动价值观和良好劳动品质；具备满足生存发展需要的基本劳动能力，形成良好劳动习惯。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907026,
+                                    "content": "错"
+                                },
+                                {
+                                    "id": 355907022,
+                                    "content": "对"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693137,
+                            "parentId": null,
+                            "name": "<p>劳动教育是在系统的文化知识学习之外，有目的、有计划地组织学生参加日常生活劳动、生产劳动和服务性劳动。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907156,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355907162,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693206,
+                            "parentId": null,
+                            "name": "<p>劳动教育是仅仅让学生体验和感受劳动。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907401,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355907406,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766309404721,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "19",
+        "examBase": {
+            "id": "wE213dGe",
+            "name": "第二章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第二章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 7,
+            "totalScore": "19",
+            "pontType": "百分制",
+            "chapterId": 1001209646,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 7,
+                    "questionDtos": [
+                        {
+                            "id": 1070693186,
+                            "parentId": null,
+                            "name": "高校的立身之本是（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 1,
+                                "name": "单选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907320,
+                                    "content": "立德树人"
+                                },
+                                {
+                                    "id": 355907333,
+                                    "content": "社会服务"
+                                },
+                                {
+                                    "id": 355907336,
+                                    "content": "文化传承"
+                                },
+                                {
+                                    "id": 355907326,
+                                    "content": "科学研究"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "2",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693176,
+                            "parentId": null,
+                            "name": "2018年，习近平总书记在全国教育大会上强调，“新时代高校要努力构建（ ）全面培养的教育体系，形成更高水平的人才培养体系”（ ）。",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 1,
+                                "name": "单选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907309,
+                                    "content": "德智美"
+                                },
+                                {
+                                    "id": 355907299,
+                                    "content": "德智体美"
+                                },
+                                {
+                                    "id": 355907295,
+                                    "content": "德智体美劳"
+                                },
+                                {
+                                    "id": 355907305,
+                                    "content": "德智体"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "2",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693199,
+                            "parentId": null,
+                            "name": "如何理解劳动教育是培养新时代大学生的重要育人路径？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907385,
+                                    "content": "劳动教育是培养新时代大学生体现教育价值的路径"
+                                },
+                                {
+                                    "id": 355907378,
+                                    "content": "劳动教育是育正新时代大学生“三观”的关键路径"
+                                },
+                                {
+                                    "id": 355907391,
+                                    "content": "劳动教育是培养新时代大学生的不必要路径"
+                                },
+                                {
+                                    "id": 355907373,
+                                    "content": "劳动教育是培养新时代大学生担负使命的基础路径"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693025,
+                            "parentId": null,
+                            "name": "<p>劳动教育具有树德、增智、强体、育美的综合育人价值。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906755,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355906761,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693094,
+                            "parentId": null,
+                            "name": "<p>我国建成富强民主文明和谐美丽的社会主义现代化强国，根本上要靠社会发展。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907011,
+                                    "content": "错"
+                                },
+                                {
+                                    "id": 355907004,
+                                    "content": "对"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693084,
+                            "parentId": null,
+                            "name": "<p>教育是培养社会发展所需要的人，就是培养社会发展、知识积累、文化传承、国家存续、制度运行所要求的人。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906972,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355906979,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693087,
+                            "parentId": null,
+                            "name": "<p>高等学校牢固树立“立校为党、办学为国”的教育理念，坚守治学兴校的初心使命。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906995,
+                                    "content": "错"
+                                },
+                                {
+                                    "id": 355906991,
+                                    "content": "对"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766309514797,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "21",
+        "examBase": {
+            "id": "5jabVlQe",
+            "name": "第三章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第三章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 7,
+            "totalScore": "21",
+            "pontType": "百分制",
+            "chapterId": 1001209647,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 7,
+                    "questionDtos": [
+                        {
+                            "id": 1070693193,
+                            "parentId": null,
+                            "name": "作为劳动教育参与主体，高校教师开展劳动教育，其可能存在的主要问题有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907346,
+                                    "content": "高校从事大学生劳动教育的教师缺乏"
+                                },
+                                {
+                                    "id": 355907364,
+                                    "content": "相关教师对大学生劳动教育课程教学组织创新不够"
+                                },
+                                {
+                                    "id": 355907360,
+                                    "content": "相关教师对大学生劳动教育理论水平不高"
+                                },
+                                {
+                                    "id": 355907354,
+                                    "content": "相关教师对大学生劳动教育重视不够"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693243,
+                            "parentId": null,
+                            "name": "我国劳动教育的总体目标，其内涵是（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907543,
+                                    "content": "具有必备的劳动能力"
+                                },
+                                {
+                                    "id": 355907536,
+                                    "content": "树立正确的劳动观念"
+                                },
+                                {
+                                    "id": 355907555,
+                                    "content": "养成良好的劳动习惯和品质"
+                                },
+                                {
+                                    "id": 355907550,
+                                    "content": "培育积极的劳动精神"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693264,
+                            "parentId": null,
+                            "name": "我国开展大学生的劳动教育，家庭方面可能存在的主要问题有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907625,
+                                    "content": "家庭重智轻劳、扭曲劳动观念"
+                                },
+                                {
+                                    "id": 355907613,
+                                    "content": "家庭缺乏开展劳动教育理念意识，或拥有错误的劳动教育理念"
+                                },
+                                {
+                                    "id": 355907630,
+                                    "content": "家长剥夺孩子的劳动权利、家庭忽视对孩子家庭劳动教育的督促或引导"
+                                },
+                                {
+                                    "id": 355907619,
+                                    "content": "家长劳动教育观念和社会价值导向偏离"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693260,
+                            "parentId": null,
+                            "name": "作为劳动教育受教育的主体，开展大学生劳动教育，其常见的主要问题有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907601,
+                                    "content": "大学生参加劳动教育实践结合大学生自身不足不够"
+                                },
+                                {
+                                    "id": 355907588,
+                                    "content": "大学生对劳动教育重要性认识不够、主动参与积极性不高"
+                                },
+                                {
+                                    "id": 355907607,
+                                    "content": "大学生接受劳动教育提升素养不够"
+                                },
+                                {
+                                    "id": 355907595,
+                                    "content": "大学生对劳动教育理论学习不够"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693251,
+                            "parentId": null,
+                            "name": "我国劳动教育的指导思想，从思想层面理解包括（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907568,
+                                    "content": "全面贯彻党的教育方针、落实全国教育大会精神"
+                                },
+                                {
+                                    "id": 355907564,
+                                    "content": "以习近平新时代中国特色社会主义思想为指导"
+                                },
+                                {
+                                    "id": 355907579,
+                                    "content": "坚持培育和践行社会主义核心价值观"
+                                },
+                                {
+                                    "id": 355907575,
+                                    "content": "坚持立德树人"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693037,
+                            "parentId": null,
+                            "name": "<p>劳动教育可纳入人才培养全过程，贯通大中小学各学段，主要是学校开展就可以。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906810,
+                                    "content": "错"
+                                },
+                                {
+                                    "id": 355906805,
+                                    "content": "对"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693043,
+                            "parentId": null,
+                            "name": "<p>劳动教育总体目标是准确把握社会主义建设者和接班人的劳动精神面貌、劳动价值取向和劳动技能水平的培养要求，全面提高学生劳动素养。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906819,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355906826,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766309561738,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "20",
+        "examBase": {
+            "id": "wVqlpvAy",
+            "name": "第四章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第四章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 7,
+            "totalScore": "20",
+            "pontType": "百分制",
+            "chapterId": 1001209648,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 7,
+                    "questionDtos": [
+                        {
+                            "id": 1070693236,
+                            "parentId": null,
+                            "name": "（ ）是人类最根本的实践活动，是人类生存、发展和创造财富的基本路径（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 1,
+                                "name": "单选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907519,
+                                    "content": "农业"
+                                },
+                                {
+                                    "id": 355907526,
+                                    "content": "狩猎"
+                                },
+                                {
+                                    "id": 355907525,
+                                    "content": "学习"
+                                },
+                                {
+                                    "id": 355907513,
+                                    "content": "劳动"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "2",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693228,
+                            "parentId": null,
+                            "name": "树立正确劳动观的路径有哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907487,
+                                    "content": "在劳动实践中不断增进与人民群众的感情，弘扬劳动精神"
+                                },
+                                {
+                                    "id": 355907497,
+                                    "content": "加强相关理论学习"
+                                },
+                                {
+                                    "id": 355907491,
+                                    "content": "在劳动实践中树立报效国家、奉献社会的家国情怀，发扬爱国精神"
+                                },
+                                {
+                                    "id": 355907502,
+                                    "content": "积极参加各种劳动"
+                                },
+                                {
+                                    "id": 355907480,
+                                    "content": "坚持党的领导，牢固树立崇尚劳动、尊重劳动和劳动最美的观念"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693217,
+                            "parentId": null,
+                            "name": "对劳动教育在高等教育中的育人功能理解存在偏差的根本原因是（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907470,
+                                    "content": "组织机构不健全"
+                                },
+                                {
+                                    "id": 355907459,
+                                    "content": "忽视了劳动教育在“怎么培养人”中的作用"
+                                },
+                                {
+                                    "id": 355907449,
+                                    "content": "忽视了劳动教育在“为谁培养人”中的作用"
+                                },
+                                {
+                                    "id": 355907454,
+                                    "content": "忽视了劳动教育在“培养什么样的人”中的作用"
+                                },
+                                {
+                                    "id": 355907464,
+                                    "content": "学习政策不够"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693210,
+                            "parentId": null,
+                            "name": "<p>强化劳动育人观的成效有哪些？（ ）</p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907427,
+                                    "content": "不断培养德智体美劳全面发展的社会义建设者和接班人"
+                                },
+                                {
+                                    "id": 355907438,
+                                    "content": "社会效益显著"
+                                },
+                                {
+                                    "id": 355907433,
+                                    "content": "经济效益取得显著提高"
+                                },
+                                {
+                                    "id": 355907421,
+                                    "content": "建立起新时代特色的高等教育劳动育人体系"
+                                },
+                                {
+                                    "id": 355907416,
+                                    "content": "推动全社会聚焦劳动教育"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693030,
+                            "parentId": null,
+                            "name": "劳动态度和劳动价值功利化主要表现在（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906774,
+                                    "content": "重眼前利益轻长远利益"
+                                },
+                                {
+                                    "id": 355906784,
+                                    "content": "重物质享受轻精神追求"
+                                },
+                                {
+                                    "id": 355906794,
+                                    "content": "倾向于投机取巧，企图不劳而获"
+                                },
+                                {
+                                    "id": 355906779,
+                                    "content": "重个人利益轻集体利益"
+                                },
+                                {
+                                    "id": 355906788,
+                                    "content": "重现实满足轻理想追求"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693015,
+                            "parentId": null,
+                            "name": "育正劳动价值观的路径主要有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906726,
+                                    "content": "坚持大众传媒正确导向，营造劳动价值观教育良好环境"
+                                },
+                                {
+                                    "id": 355906747,
+                                    "content": "加强管理制度建设"
+                                },
+                                {
+                                    "id": 355906731,
+                                    "content": "加强相关理论学习"
+                                },
+                                {
+                                    "id": 355906719,
+                                    "content": "提高大学生实践活动能力，增强艰苦奋斗劳动意识"
+                                },
+                                {
+                                    "id": 355906713,
+                                    "content": "加强学校劳动价值观教育"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693007,
+                            "parentId": null,
+                            "name": "坚持劳动实践观主要依靠的路径有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906698,
+                                    "content": "加强宣传"
+                                },
+                                {
+                                    "id": 355906693,
+                                    "content": "建立完善的劳动实践体系"
+                                },
+                                {
+                                    "id": 355906704,
+                                    "content": "加强制度建设"
+                                },
+                                {
+                                    "id": 355906682,
+                                    "content": "认清劳动的本质和内涵"
+                                },
+                                {
+                                    "id": 355906686,
+                                    "content": "坚持正确劳动实践观有利于解决大学生实践观弱化的问题"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766309601026,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "20",
+        "examBase": {
+            "id": "5krbkWPe",
+            "name": "第五章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第五章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 7,
+            "totalScore": "20",
+            "pontType": "百分制",
+            "chapterId": 1001209649,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 7,
+                    "questionDtos": [
+                        {
+                            "id": 1070693076,
+                            "parentId": null,
+                            "name": "实践劳动教育的目标导向不仅体现在营造劳动光荣的社会氛围上，而且还体现在( )。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 1,
+                                "name": "单选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906964,
+                                    "content": "培养大学生践行和弘扬劳动精神"
+                                },
+                                {
+                                    "id": 355906959,
+                                    "content": "提升大学生劳动技能"
+                                },
+                                {
+                                    "id": 355906947,
+                                    "content": "增强大学生社会主义劳动文化自信"
+                                },
+                                {
+                                    "id": 355906952,
+                                    "content": "提升大学生劳动素养"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "2",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693071,
+                            "parentId": null,
+                            "name": "耕读劳动教育的育人成效主要体现在哪些方面？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906929,
+                                    "content": "大学生“三农”情怀和农村振兴使命感增强"
+                                },
+                                {
+                                    "id": 355906922,
+                                    "content": "大学生劳动价值观增强"
+                                },
+                                {
+                                    "id": 355906938,
+                                    "content": "大学生劳动理论增强"
+                                },
+                                {
+                                    "id": 355906934,
+                                    "content": "大学生综合劳动素养提升"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693058,
+                            "parentId": null,
+                            "name": "课程劳动教育育人目标包括哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906879,
+                                    "content": "引导大学生树立正确的劳动观念"
+                                },
+                                {
+                                    "id": 355906897,
+                                    "content": "提升大学生劳动素养"
+                                },
+                                {
+                                    "id": 355906884,
+                                    "content": "培养大学生践行和弘扬劳动精神"
+                                },
+                                {
+                                    "id": 355906891,
+                                    "content": "提升大学生劳动技能"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693046,
+                            "parentId": null,
+                            "name": "实训劳动教育育人成效包括哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906854,
+                                    "content": "增强劳动价值观"
+                                },
+                                {
+                                    "id": 355906847,
+                                    "content": "更好地适应社会"
+                                },
+                                {
+                                    "id": 355906843,
+                                    "content": "提升个人能力"
+                                },
+                                {
+                                    "id": 355906837,
+                                    "content": "树立劳动意识"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070692999,
+                            "parentId": null,
+                            "name": "大学生对实践劳动教育理念认知不足的主要原因有哪些？（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906671,
+                                    "content": "缺乏“坚定劳动成就共同富裕”的新理念"
+                                },
+                                {
+                                    "id": 355906658,
+                                    "content": "缺乏以辛勤劳动为荣、以好逸恶劳为耻的劳动观"
+                                },
+                                {
+                                    "id": 355906665,
+                                    "content": "大学生认为劳动的高尚会随着劳动形式和劳动岗位的变化而不同"
+                                },
+                                {
+                                    "id": 355906654,
+                                    "content": "对实践劳动认知不够"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070692990,
+                            "parentId": null,
+                            "name": "营造劳动教育文化环境的主要组织方式有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906628,
+                                    "content": "举办文化艺术活动"
+                                },
+                                {
+                                    "id": 355906639,
+                                    "content": "举办志愿服务"
+                                },
+                                {
+                                    "id": 355906634,
+                                    "content": "开展主题纪念日"
+                                },
+                                {
+                                    "id": 355906645,
+                                    "content": "举办以劳动为主题的竞赛项目"
+                                },
+                                {
+                                    "id": 355906617,
+                                    "content": "加强引导宣传"
+                                },
+                                {
+                                    "id": 355906624,
+                                    "content": "开展专题讲座"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070692984,
+                            "parentId": null,
+                            "name": "科研劳动教育包括（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906601,
+                                    "content": "勤工助学"
+                                },
+                                {
+                                    "id": 355906599,
+                                    "content": "创新创业计划"
+                                },
+                                {
+                                    "id": 355906593,
+                                    "content": "科研兴趣培养计划"
+                                },
+                                {
+                                    "id": 355906606,
+                                    "content": "卫生保洁"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}
+{
+    "currentTime": 1766309632746,
+    "msg": "请求成功",
+    "rt": {
+        "id": null,
+        "score": "20",
+        "examBase": {
+            "id": "w44X7m8w",
+            "name": "第六章单元测试",
+            "courseName": "新时代大学生·劳动教育",
+            "toChapter": "第六章",
+            "explain": null,
+            "limitTime": null,
+            "problemNum": 7,
+            "totalScore": "20",
+            "pontType": "百分制",
+            "chapterId": 1001209650,
+            "workExamParts": [
+                {
+                    "id": null,
+                    "startSort": 1,
+                    "questionCount": 7,
+                    "questionDtos": [
+                        {
+                            "id": 1070693124,
+                            "parentId": null,
+                            "name": "“育人铸魂”的“魂”是指人的( )。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907113,
+                                    "content": "思想的精髓"
+                                },
+                                {
+                                    "id": 355907119,
+                                    "content": "优良的品格"
+                                },
+                                {
+                                    "id": 355907126,
+                                    "content": "崇高的精神"
+                                },
+                                {
+                                    "id": 355907130,
+                                    "content": "生命灵感"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693118,
+                            "parentId": null,
+                            "name": "对大学生劳动教育要育人铸魂的原因是（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907104,
+                                    "content": "对大学生培养须强化育人铸魂，才能培养成长为堪当历史大任的时代新人。"
+                                },
+                                {
+                                    "id": 355907095,
+                                    "content": "大学生责任重大、肩负光荣使命，是我国培养未来的社会主义建设者和接班人，"
+                                },
+                                {
+                                    "id": 355907089,
+                                    "content": "大学生是我国强国建设和中华民族伟大复兴需要一批有铸魂的社会主义建设者和接班人。"
+                                },
+                                {
+                                    "id": 355907100,
+                                    "content": "大学生是未来强国建设和中华民族复兴伟大使命的主力军；"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693110,
+                            "parentId": null,
+                            "name": "对大学生进行育人铸魂的内涵劳动教育，就是培养大学生具有（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907078,
+                                    "content": "长期坚持和投入劳动的劳动情怀"
+                                },
+                                {
+                                    "id": 355907070,
+                                    "content": "尊重劳动的劳动情怀"
+                                },
+                                {
+                                    "id": 355907073,
+                                    "content": "崇尚劳动的劳动情怀"
+                                },
+                                {
+                                    "id": 355907064,
+                                    "content": "热爱劳动的情怀"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693103,
+                            "parentId": null,
+                            "name": "劳动情怀不够是大学生培养的重要核心基础问题，主要可能原因是（ ）。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 2,
+                                "name": "多选题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907052,
+                                    "content": "大学生的劳动观不正"
+                                },
+                                {
+                                    "id": 355907041,
+                                    "content": "大学生在劳动中攻坚克难意志不强"
+                                },
+                                {
+                                    "id": 355907045,
+                                    "content": "劳动担当奉献精神不强"
+                                },
+                                {
+                                    "id": 355907036,
+                                    "content": "大学生对劳动认识的责任使命感不强"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693132,
+                            "parentId": null,
+                            "name": "通过强化劳动教育，旨在培养大学生“尊重劳动血育文化”，培育新时代大学生血液里流淌着劳动文化。（ ）",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355907141,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355907145,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "2",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693054,
+                            "parentId": null,
+                            "name": "<p>劳动文化是一种伸张劳动的价值和地位，劳动者的尊严和权利的文化。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906863,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355906869,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        },
+                        {
+                            "id": 1070693065,
+                            "parentId": null,
+                            "name": "<p>劳动情怀教育目标是，通过强化劳动教育，旨在培养新时代大学生热爱劳动有情怀、实践劳动激情怀、胸育情怀升素养。</p><p><br/></p>",
+                            "listenId": null,
+                            "listenData": null,
+                            "questionType": {
+                                "id": 14,
+                                "name": "判断题"
+                            },
+                            "questionOptions": [
+                                {
+                                    "id": 355906907,
+                                    "content": "对"
+                                },
+                                {
+                                    "id": 355906910,
+                                    "content": "错"
+                                }
+                            ],
+                            "questionDatas": null,
+                            "questionChildrens": null,
+                            "questionScore": "3",
+                            "eid": null,
+                            "comments": null,
+                            "result": null
+                        }
+                    ]
+                }
+            ]
+        },
+        "examEndTime": "2025-12-24 23:59:59",
+        "state": null,
+        "comment": null
+    },
+    "status": "200"
+}

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/QQ_1766372672287.png</file>
+        <file>pic/bg.png</file>
+        <file>pic/bt1.png</file>
+        <file>pic/bt2.png</file>
+    </qresource>
+</RCC>

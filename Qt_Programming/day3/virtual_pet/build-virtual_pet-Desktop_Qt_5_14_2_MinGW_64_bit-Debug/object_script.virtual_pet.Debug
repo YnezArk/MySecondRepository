@@ -1,0 +1,16 @@
+debug/main.o
+debug/pet_core.o
+debug/emotion_manager.o
+debug/action_controller.o
+debug/pet_widget.o
+debug/chat_dialog.o
+debug/mouse_tracker.o
+debug/reminder_manager.o
+debug/qrc_qrc_resources.o
+debug/moc_pet_core.o
+debug/moc_emotion_manager.o
+debug/moc_action_controller.o
+debug/moc_pet_widget.o
+debug/moc_chat_dialog.o
+debug/moc_mouse_tracker.o
+debug/moc_reminder_manager.o
