@@ -8,6 +8,7 @@ node_modules/
 .cmake/
 build/
 *.cmake
+*.exe
 CMakeFiles/
 *.class
 debug/
